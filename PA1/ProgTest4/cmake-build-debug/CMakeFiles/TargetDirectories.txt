@@ -1,0 +1,3 @@
+/home/superlamic/CLionProjects/ProgTest4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/superlamic/CLionProjects/ProgTest4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/superlamic/CLionProjects/ProgTest4/cmake-build-debug/CMakeFiles/ProgTest4.dir
